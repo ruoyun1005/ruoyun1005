@@ -4,7 +4,7 @@
 目前持續學習程式開發，嘗試將數理思維與設計結合。
 
 
-### 專長領域
+#### 專長領域
 
 - **數學視覺化** — 將抽象概念轉化為可互動的視覺呈現
 - **平面設計** — 視覺傳達、排版、品牌識別
@@ -12,7 +12,7 @@
 - **AI 推廣** — 關注 AI 發展，參與相關活動與內容製作
 
 
-### 技術工具
+#### 技術工具
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -21,7 +21,7 @@
 
 
 
-### 更多作品
+#### 更多作品
 
 個人作品集網站涵蓋數學專案、AI 推廣、平面設計與 3D 遊戲等內容。
 
