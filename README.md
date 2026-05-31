@@ -26,6 +26,4 @@
 
 #### 更多作品
 
-個人作品集網站涵蓋數學專案、AI 推廣、平面設計與 3D 遊戲等內容。
-
-🔗 [ruyun-profile-web.vercel.app](https://ruyun-profile-web.vercel.app/)
+想多了解我的話 → 🔗[個人作品集](https://ruyun-profile-web.vercel.app/)
