@@ -1,6 +1,6 @@
 #### Ruyun Luo 羅如妘
 
-Applied Mathematics student at NCCU, with a double major in Digital Content.  
+Applied Mathematics student at NCCU, with a double major in Digital Content and Technology.  
 Interested in mathematical visualization and AI applications, with hands-on experience in graphic design and 3D production.  
 Currently learning software development — exploring the intersection of mathematics and design.
 
