@@ -1,20 +1,22 @@
-### 羅如妘 Ruyun Luo
+#### Ruyun Luo 羅如妘
 
-政大應用數學系學生，雙主修數位內容學位學程。
-對數學視覺化與 AI 應用有興趣，同時具備平面設計與 3D 製作的實作經驗。  
-目前持續學習程式開發，嘗試將數理思維與設計結合。
-
-
-#### 專長領域
-
-- **數學視覺化** — 將抽象概念轉化為可互動的視覺呈現
-- **平面設計** — 視覺傳達、排版、品牌識別
-- **3D 製作** — 使用 Blender 進行建模與場景設計
-- **遊戲製作** - 網頁遊戲、Unity / Unreal 3D 遊戲製作
-- **AI 推廣** — 關注 AI 發展，參與相關活動與內容製作
+Applied Mathematics student at NCCU, with a double major in Digital Content.  
+Interested in mathematical visualization and AI applications, with hands-on experience in graphic design and 3D production.  
+Currently learning software development — exploring the intersection of mathematics and design.
 
 
-#### 技術工具
+
+#### Areas of Focus
+
+- **Mathematical Visualization** — translating abstract concepts into interactive visual forms
+- **Graphic Design** — visual communication, typography, and brand identity
+- **3D Production** — modeling and scene design with Blender
+- **Game Development** — web-based games and 3D games with Unity / Unreal
+- **AI Outreach** — following AI developments and contributing to related events and content
+
+
+
+#### Tools & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -24,7 +26,6 @@
 
 
 
+Want to know more about me?  
+→ [ruyun-profile-web.vercel.app](https://ruyun-profile-web.vercel.app/)
 
-#### 更多作品
-
-想多了解我的話 → 🔗 [個人作品集](https://ruyun-profile-web.vercel.app/)
